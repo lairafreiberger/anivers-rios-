@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo preto);
     color: var(--lilás);
     font-family: 'Chakra Petch', sans-serif;
 }
